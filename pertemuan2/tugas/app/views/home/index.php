@@ -2,7 +2,7 @@
     <div class="container text-center">
         <!-- Foto Profil -->
         <img src="<?= BASEURL; ?>/img/profil.jpg" alt="Foto Profil" class="rounded-circle mb-4" 
-             style="width:120px; height:120px; object-fit:cover; border:3px solid white;">
+            style="width:120px; height:120px; object-fit:cover; border:3px solid white;">
         
         <h1 class="display-5 fw-bold">Selamat Datang di Website Saya!</h1>
         <p class="col-md-8 fs-4 mx-auto">Halo, nama saya <?= $data['nama']; ?>.</p>

@@ -2,7 +2,7 @@
 
 define("BASEURL", "http://localhost/prakweb2025_C_233040116/pertemuan2/tugas/public/");
 
-// DATANASE
+// DATABASE
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
